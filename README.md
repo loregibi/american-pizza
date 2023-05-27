@@ -1,6 +1,4 @@
 # american-pizza
-Menu of american pizza with use of pattern decorator
-#
 Si vuole progettare un sistema di gestione dei menu di una pizzeria in stile American Pizza. La pizzeria offre pizza, drink e alcuni articoli di franchising (shirt, mug) con il suo brand.
  
 Tutti i prodotti hanno un prezzo, mentre pizza e drink hanno in aggiunta delle informazioni nutrizionali (calorie). Tali informazioni devono comparire sul menu.
