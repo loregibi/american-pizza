@@ -8,7 +8,7 @@ public class MenuManager {
 
     public MenuManager() {
         dummyDB = new DummyDB();
-        dummyDB.initDB();
+        //dummyDB.initDB();
     }
 
     public void printMenu() {
